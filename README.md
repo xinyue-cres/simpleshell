@@ -1,2 +1,5 @@
 # simpleshell
 C语言实现的简易Shell
+实现了基本的Shell命令如cd、pwd命令等
+使用fork和exec实现了Shell调用非系统程序
+实现了历史命令行的存储与打印显示
